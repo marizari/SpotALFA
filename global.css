@@ -1,0 +1,20 @@
+:root {
+  /* === Paleta de Cores SpotALFA === */
+
+  /* Fundo principal (modo escuro) */
+  --color-background-dark: #121212;
+
+  /* Cores principais da marca (inspiradas na UniALFA) */
+  --color-primary-blue: #005BAC;    /* Azul institucional (principal) */
+  --color-secondary-blue: #0077D1;  /* Azul claro (hover, destaques suaves) */
+
+  /* Cor de destaque */
+  --color-accent-yellow: #FFBA00;   /* Laranja vibrante (botão play, destaques) */
+
+  /* Cores de texto */
+  --color-text-primary: #FFFFFF;    /* Texto principal (branco) */
+  --color-text-secondary: #B3B3B3;  /* Texto secundário (cinza claro) */
+
+  /* Extra (opcional para bordas, itens desativados, etc.) */
+  --color-border-muted: #2a2a2a;    /* Cinza escuro sutil */
+}
